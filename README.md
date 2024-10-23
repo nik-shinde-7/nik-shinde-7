@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikhil Shinde</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<h4>This is my secondary account, to visit my primary account, please click here - **https://github.com/Nikshinde7**</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik-shinde-7&label=Profile%20views&color=0e75b6&style=flat" alt="nik-shinde-7" /> </p>
 
 - 🔭 I’m currently working on [Matchbot-Knights](https://dev-admin.matchbot.gg/)
-
-- To headout to my personal account, please click **https://github.com/Nikshinde7**
 
 - 💬 Ask me about **React, NextJS & Javascript**
 
